@@ -18,3 +18,13 @@ node_modules/
 web/dist/
 .DS_Store
 *.log
+
+# Experimental / Local
+venv_old/
+scratch/
+
+# DVC Temporary Files
+.dvc/tmp/
+.dvc/lock
+.dvc/rwlock
+.dvc/rwlock.lock
